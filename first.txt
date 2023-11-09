@@ -1,3 +1,4 @@
 gitの練習をしていきます
 変更
 git rm
+git status
